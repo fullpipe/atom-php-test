@@ -1,10 +1,9 @@
 {
   "name": "atom-php-test",
   "main": "./lib/atom-php-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Go to php-spec file for current class",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-php-test:go-to-spec"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
