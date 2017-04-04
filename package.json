@@ -1,7 +1,7 @@
 {
   "name": "atom-php-test",
   "main": "./lib/atom-php-test",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Go to php-spec file for current class",
   "keywords": [],
   "activationCommands": {
